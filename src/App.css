@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  font-family: balatro;
+}
+
+.main-content {
+  min-height: calc(100vh - 215px);
+}
+
+@font-face {
+  font-family: balatro;
+  src: url(../public/fonts/m6x11.ttf)
+}
